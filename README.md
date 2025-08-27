@@ -40,8 +40,8 @@ Attributes: Includes title, type, release year, rating, duration, country, and o
 - Certain ratings are more common, reflecting Netflix’s content strategy.
 
 ## 🖼️ Screenshot
+![Netflix Dashboard](screenshot.png)
 
-Include a screenshot of your dashboard here for better visualization.
 
 ## 🛠️ Technologies Used
 - Tableau Desktop / Tableau Public
