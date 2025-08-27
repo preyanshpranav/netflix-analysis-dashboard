@@ -46,3 +46,6 @@ Include a screenshot of your dashboard here for better visualization.
 ## 🛠️ Technologies Used
 - Tableau Desktop / Tableau Public
 - CSV dataset for content information
+
+## 📝 License
+This project is open source and available under the MIT License.
